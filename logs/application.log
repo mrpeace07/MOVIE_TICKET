@@ -1,0 +1,13 @@
+2024-12-12 12:06:57 INFO  SelectScreen:15 - Initializing SelectScreen with default movies and seat layouts.
+2024-12-12 12:06:57 DEBUG SelectScreen:28 - Default movies and seat layouts initialized successfully.
+2024-12-12 12:06:57 INFO  CancelAndRefund:13 - CancelAndRefund initialized with BookTickets instance.
+2024-12-12 12:06:57 INFO  ShowBookedTickets:12 - ShowBookedTickets initialized with BookTickets instance.
+2024-12-12 18:49:31 INFO  SelectScreen:15 - Initializing SelectScreen with default movies and seat layouts.
+2024-12-12 18:49:31 DEBUG SelectScreen:28 - Default movies and seat layouts initialized successfully.
+2024-12-12 18:49:31 INFO  CancelAndRefund:13 - CancelAndRefund initialized with BookTickets instance.
+2024-12-12 18:49:31 INFO  ShowBookedTickets:12 - ShowBookedTickets initialized with BookTickets instance.
+2024-12-13 12:24:51 INFO  SelectScreen:15 - Initializing SelectScreen with default movies and seat layouts.
+2024-12-13 12:24:51 DEBUG SelectScreen:28 - Default movies and seat layouts initialized successfully.
+2024-12-13 12:24:51 INFO  CancelAndRefund:13 - CancelAndRefund initialized with BookTickets instance.
+2024-12-13 12:24:51 INFO  ShowBookedTickets:12 - ShowBookedTickets initialized with BookTickets instance.
+2024-12-13 12:24:56 INFO  MovieBookingSystem:78 - System exited.
