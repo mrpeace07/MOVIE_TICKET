@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-class SelectScreen {
+public class SelectScreen {
     private static final Logger logger = Logger.getLogger(SelectScreen.class);
 
     private Map<Integer, String> movies = new HashMap<>();

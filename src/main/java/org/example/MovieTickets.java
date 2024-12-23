@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-class MovieTickets {
+public class MovieTickets {
     private static final Logger logger = Logger.getLogger(MovieTickets.class);
     private Scanner sc = new Scanner(System.in);
     private String name;

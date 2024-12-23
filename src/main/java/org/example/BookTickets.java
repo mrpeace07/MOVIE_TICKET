@@ -2,7 +2,7 @@ package org.example;
 import org.apache.log4j.Logger;
 import java.util.*;
 
-class BookTickets {
+public class BookTickets {
     private static final Logger logger = Logger.getLogger(BookTickets.class);
     private Scanner sc = new Scanner(System.in);
     private SelectScreen selectScreen;

@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-class CancelAndRefund {
+public class CancelAndRefund {
     private static final Logger logger = Logger.getLogger(CancelAndRefund.class); // Logger instance
     private BookTickets bookTickets;
 

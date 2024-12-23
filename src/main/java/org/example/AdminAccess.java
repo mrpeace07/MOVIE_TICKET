@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.*;
 import org.apache.log4j.Logger;
 
-class AdminAccess {
+public class AdminAccess {
     private static final Logger logger = Logger.getLogger(AdminAccess.class); // Log4j Logger
     private static final String ADMIN_PASSWORD = "iamadmin";
     private static final String LOG_FILE_PATH = "logs/application.log";
@@ -16,6 +16,10 @@ class AdminAccess {
         this.bookTickets = bookTickets;
         this.movieTickets = movieTickets;
         logger.info("AdminAccess initialized with BookTickets and MovieTickets instances.");
+    }
+
+    public boolean validatePassword(String inputPassword) {
+        return ADMIN_PASSWORD.equals(inputPassword);
     }
 
     // Main Admin Menu

@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class MovieBookingSystem {
     static Logger logger = Logger.getLogger(MovieBookingSystem.class);
 
-    public static void main(String[] args) {
+    public void movieBookingSystem(){
         BasicConfigurator.configure(); // Configures log4j
         Scanner sc = new Scanner(System.in);
 

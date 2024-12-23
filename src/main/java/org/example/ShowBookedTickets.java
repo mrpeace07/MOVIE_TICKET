@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Map;
 import org.apache.log4j.Logger;
 
-class ShowBookedTickets {
+public class ShowBookedTickets {
     private static final Logger logger = Logger.getLogger(ShowBookedTickets.class); // Logger instance
     private BookTickets bookTickets;
 
